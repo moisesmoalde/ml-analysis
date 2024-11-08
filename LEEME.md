@@ -1,5 +1,3 @@
-Aquí está la traducción al español del archivo README.md, manteniendo el código en inglés:
-
 # Optimización y Evaluación de Modelos de Aprendizaje Automático
 
 Este repositorio contiene dos carpetas: `classification(hc-mci)` contiene el código y datos para la **clasificación** de participantes entre HC y MCI, y `regression(t-moca)` contiene el código y datos para la **regresión** (predicción numérica) de la puntuación T-MoCA de los participantes.
